@@ -1,0 +1,11 @@
+Operators in python
+https://www.geeksforgeeks.org/python-operators/
+New things 
+
+Identity operator-
+is          True if the operands are identical 
+is not      True if the operands are not identical 
+
+Membership operators -  
+in            True if value is found in the sequence
+not in        True if value is not found in the sequence
